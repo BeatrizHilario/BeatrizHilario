@@ -1,9 +1,6 @@
 <div align="center">
-
-  <!-- BANNER LOCAL (NUNCA QUEBRA) -->
-  <img src="banner.jpg" alt="Banner Beatriz Hilario" width="100%" />
-
-  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Beatriz%20Hil%C3%A1rio&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descFontSize=16&descAlignY=62&descColor=c084fc&theme=tokyonight" width="100%" />
+</div>
 
   <!-- DIGITAÇÃO ANIMADA EM ROXO NEON -->
   <a href="#">

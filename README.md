@@ -7,11 +7,11 @@
 
 <!-- BADGES DE CONTATO & PERFIL -->
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/beatriz-hilario-pinto-46b948303/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:beatrizhilariop1@gmail.com">
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;

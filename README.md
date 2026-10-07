@@ -1,4 +1,4 @@
-# Olá, eu sou a Beatriz Hilario 
+# Olá, eu sou Beatriz
 
 <p align="left">
   <b>Engenheira de Software & Backend Developer</b><br/>

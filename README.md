@@ -1,15 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Beatriz%20Hil%C3%A1rio&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descFontSize=16&descAlignY=62&descColor=c084fc&theme=tokyonight" width="100%" />
-</div>
 
-  <!-- DIGITAÇÃO ANIMADA EM ROXO NEON -->
+  <!-- BANNER EXPORTADO DO FIGMA (banner.png na raiz do repositório) -->
+  <img width="1200" height="250" alt="banner" src="https://github.com/user-attachments/assets/5b75cc81-aabe-4763-94fa-9831d0933bb7" />
+
+
+  <br/><br/>
+
+  <!-- DIGITAÇÃO ANIMADA EM VIOLETA -->
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Software+Developer+%E2%80%A2+Java+%26+Spring+Boot;APIs+RESTful%2C+Arquitetura+Limpa+%26+Microsservi%C3%A7os;Bancos+de+Dados+Relacionais+%26+NoSQL" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- BOTÕES DE CONTATO ESTILIZADOS -->
+  <!-- BOTÕES DE CONTACTO ESTILIZADOS -->
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -35,19 +39,19 @@
     <td width="55%" bgcolor="#180c2e" style="padding: 16px; border-radius: 8px;">
       <h4 style="color: #c084fc;">🟣 Perfil Profissional</h4>
       <p style="color: #e9d5ff;">
-        Desenvolvedora focada em <b>Engenharia de Software e Backend</b>, graduanda em <b>Ciência da Computação</b>. Especializada na construção de microsserviços, automações e APIs de alta confiabilidade utilizando o ecossistema <b>Java</b> e <b>Spring Boot</b>.
+        Desenvolvedora focada em <b>Engenharia de Software e Backend</b>, graduanda em <b>Ciência da Computação</b>. Especializada na construção de microsserviços, automações e APIs de alta fiabilidade utilizando o ecossistema <b>Java</b> e <b>Spring Boot</b>.
       </p>
       <p style="color: #e9d5ff;">
-        Atuação voltada a design patterns, arquitetura limpa, segurança, modelagem de dados e integração contínua de serviços em nuvem.
+        Atuação voltada para padrões de desenho, arquitetura limpa, segurança, modelagem de dados e integração contínua de serviços na nuvem.
       </p>
     </td>
     <td width="45%" bgcolor="#180c2e" style="padding: 16px; border-radius: 8px;">
       <h4 style="color: #c084fc;">⚡ Especialidades Técnicas</h4>
       <ul style="color: #e9d5ff;">
         <li><b>Core:</b> Java 17+, Spring Boot, Spring Security</li>
-        <li><b>Bancos de Dados:</b> PostgreSQL, MongoDB, Spring Data JPA</li>
+        <li><b>Bases de Dados:</b> PostgreSQL, MongoDB, Spring Data JPA</li>
         <li><b>Integrações:</b> APIs Financeiras (Open Finance), Inteligência Artificial</li>
-        <li><b>Padrões:</b> Clean Code, RESTful APIs, SOLID, MVC</li>
+        <li><b>Boas Práticas:</b> Clean Code, RESTful APIs, SOLID, MVC</li>
       </ul>
     </td>
   </tr>
@@ -83,7 +87,7 @@
   <tr>
     <td width="50%" bgcolor="#130924" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 8px;">
       <h4 style="margin: 0 0 8px 0;"><a href="https://github.com/BeatrizHilario/gestor-gastos-excel" style="color: #c084fc; text-decoration: none;">📊 Gestor de Gastos (Excel)</a></h4>
-      <p style="color: #d8b4fe; font-size: 13px;">Controle orçamentário completo com geração e exportação dinâmica de planilhas formatadas.</p>
+      <p style="color: #d8b4fe; font-size: 13px;">Controlo orçamental com geração e exportação dinâmica de folhas de cálculo formatadas.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-8B5CF6?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/Apache_POI-7C3AED?style=flat-square&logo=apache&logoColor=white"/>
@@ -91,7 +95,7 @@
     </td>
     <td width="50%" bgcolor="#130924" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 8px;">
       <h4 style="margin: 0 0 8px 0;"><a href="https://github.com/BeatrizHilario/sistema-ordens-servico" style="color: #c084fc; text-decoration: none;">🔧 Ordens de Serviço</a></h4>
-      <p style="color: #d8b4fe; font-size: 13px;">Sistema para emissão e controle de orçamentos, histórico de manutenção e clientes.</p>
+      <p style="color: #d8b4fe; font-size: 13px;">Sistema para emissão e controlo de orçamentos, histórico de manutenção e clientes.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Data_JPA-6D28D9?style=flat-square&logo=spring&logoColor=white"/>
@@ -101,7 +105,7 @@
   <tr>
     <td colspan="2" bgcolor="#130924" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 8px;">
       <h4 style="margin: 0 0 8px 0;"><a href="https://github.com/BeatrizHilario/crud-venda-veiculos" style="color: #c084fc; text-decoration: none;">🚗 Catálogo & Venda de Veículos</a></h4>
-      <p style="color: #d8b4fe; font-size: 13px;">Gestão comercial de estoque e negociação veicular com interface responsiva e relatórios.</p>
+      <p style="color: #d8b4fe; font-size: 13px;">Gestão comercial de inventário e negociação automóvel com interface responsiva.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_MVC-7C3AED?style=flat-square&logo=spring&logoColor=white"/>
@@ -115,7 +119,7 @@
 
 ---
 
-### 🛠️ Stacks & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,tailwind,js,html,css,git,github,idea,figma&theme=dark" />
@@ -125,7 +129,7 @@
 
 ---
 
-### 📈 Estatísticas & Atividade
+### 📈 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BeatrizHilario&show_icons=true&bg_color=180c2e&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7&border_color=7c3aed" height="150" />
@@ -133,4 +137,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizHilario&layout=compact&bg_color=180c2e&title_color=c084fc&text_color=e9d5ff&border_color=7c3aed" height="150" />
 </div>
 
-<br/>
+<br/>![Uploading banner.png…]()

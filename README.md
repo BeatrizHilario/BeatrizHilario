@@ -1,139 +1,136 @@
-<div align="center">
+# Olá, eu sou a Beatriz Hilario 
 
-  <!-- BANNER DINÂMICO ESTILO VÍDEO (Bordas suaves e roxo neon) -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=18,20,25,35,45&gradient=120,6b00f6,8b5cf6,c084fc&height=220&section=header&text=Beatriz%20Hil%C3%A1rio&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descFontSize=16&descAlignY=62&descColor=e9d5ff" width="100%" />
+<p align="left">
+  <b>Engenheira de Software & Backend Developer</b><br/>
+  Graduanda em Ciência da Computação focada no ecossistema <b>Java</b> e <b>Spring Boot</b>, desenvolvimento de APIs RESTful escaláveis, microsserviços e persistência de dados relacional e não-relacional.
+</p>
 
-  <br/><br/>
-
-  <!-- DIGITAÇÃO ANIMADA -->
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Software+Developer+%E2%80%A2+Java+%26+Spring+Boot;APIs+RESTful%2C+Arquitetura+Limpa+%26+Microsservi%C3%A7os;Bancos+de+Dados+Relacionais+%26+NoSQL" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- BOTÕES DE CONTATO ESTILIZADOS -->
+<!-- BADGES DE CONTATO & PERFIL -->
+<p align="left">
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/BeatrizHilario?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfólio_de_Projetos-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repositórios-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
-
-</div>
-
-<br/>
+</p>
 
 ---
 
-### 🔮 Sobre & Atuação
+### 📌 Visão Geral & Foco Técnico
 
 <table>
   <tr>
-    <td width="55%" bgcolor="#180c2e" style="padding: 16px; border-radius: 8px;">
-      <h4 style="color: #c084fc;">🟣 Perfil Profissional</h4>
-      <p style="color: #e9d5ff;">
-        Desenvolvedora focada em <b>Engenharia de Software e Backend</b>, graduanda em <b>Ciência da Computação</b>. Especializada na construção de microsserviços, automações e APIs de alta confiabilidade utilizando o ecossistema <b>Java</b> e <b>Spring Boot</b>.
-      </p>
-      <p style="color: #e9d5ff;">
-        Atuação voltada para padrões de projeto, arquitetura limpa, segurança, modelagem de dados e integração contínua de serviços em nuvem.
+    <td width="50%" valign="top">
+      <h4>📍 Perfil Profissional</h4>
+      <p>
+        Atuação voltada para engenharia de software no backend, aplicando padrões arquiteturais consolidados, <b>Clean Architecture</b>, princípios <b>SOLID</b> e desenvolvimento orientado a boas práticas. Experiência na modelagem e otimização de bancos de dados, consumo de serviços externos e autenticação segura.
       </p>
     </td>
-    <td width="45%" bgcolor="#180c2e" style="padding: 16px; border-radius: 8px;">
-      <h4 style="color: #c084fc;">⚡ Especialidades Técnicas</h4>
-      <ul style="color: #e9d5ff;">
-        <li><b>Core:</b> Java 17+, Spring Boot, Spring Security</li>
-        <li><b>Bancos de Dados:</b> PostgreSQL, MongoDB, Spring Data JPA</li>
-        <li><b>Integrações:</b> APIs Financeiras (Open Finance), Inteligência Artificial</li>
-        <li><b>Boas Práticas:</b> Clean Code, RESTful APIs, SOLID, MVC</li>
+    <td width="50%" valign="top">
+      <h4>🎯 Áreas de Domínio</h4>
+      <ul>
+        <li><b>Linguagens & Frameworks:</b> Java 17+, Spring Boot 3, Spring Data JPA, Spring Security</li>
+        <li><b>Bancos de Dados:</b> PostgreSQL, MongoDB, modelagem relacional e NoSQL</li>
+        <li><b>Arquitetura & Design:</b> RESTful APIs, Clean Code, MVC, Autenticação JWT</li>
+        <li><b>Integrações:</b> APIs de Open Finance, Inteligência Artificial (LLMs) e automações</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<br/>
-
 ---
 
-### 💻 Vitrine de Soluções & Repositórios
+### 🚀 Vitrine de Projetos
 
 <table width="100%">
-  <tr>
-    <td width="50%" bgcolor="#130924" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 8px;">
-      <h4 style="margin: 0 0 8px 0;"><a href="https://github.com/BeatrizHilario/smartmeal" style="color: #c084fc; text-decoration: none;">🥗 SmartMeal</a></h4>
-      <p style="color: #d8b4fe; font-size: 13px;">Plataforma de gestão nutricional e recomendações dietéticas inteligentes com integração de IA.</p>
-      <p>
+  <thead>
+    <tr>
+      <th align="left">Projeto</th>
+      <th align="left">Descrição da Solução</th>
+      <th align="left">Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/BeatrizHilario/smartmeal">🥗 SmartMeal</a></b></td>
+      <td>Aplicação web para monitoramento nutricional e recomendação dinâmica de dietas com integração de Inteligência Artificial.</td>
+      <td>
         <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-7C3AED?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" bgcolor="#130924" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 8px;">
-      <h4 style="margin: 0 0 8px 0;"><a href="https://github.com/BeatrizHilario/sistema-financeiro" style="color: #c084fc; text-decoration: none;">💳 Sistema Financeiro</a></h4>
-      <p style="color: #d8b4fe; font-size: 13px;">Gestão de finanças com integração Open Finance para sincronização bancária automatizada.</p>
-      <p>
+        <img src="https://img.shields.io/badge/MongoDB-5B21B6?style=flat-square&logo=mongodb&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/BeatrizHilario/sistema-financeiro">💳 Sistema Financeiro</a></b></td>
+      <td>Gestão financeira pessoal com sincronização bancária automatizada via Open Finance e conciliação de extratos.</td>
+      <td>
         <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-7C3AED?style=flat-square&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Open_Finance-5B21B6?style=flat-square&logo=buffer&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" bgcolor="#130924" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 8px;">
-      <h4 style="margin: 0 0 8px 0;"><a href="https://github.com/BeatrizHilario/gestor-gastos-excel" style="color: #c084fc; text-decoration: none;">📊 Gestor de Gastos (Excel)</a></h4>
-      <p style="color: #d8b4fe; font-size: 13px;">Controle orçamentário completo com geração e exportação dinâmica de planilhas formatadas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-8B5CF6?style=flat-square&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apache_POI-7C3AED?style=flat-square&logo=apache&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" bgcolor="#130924" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 8px;">
-      <h4 style="margin: 0 0 8px 0;"><a href="https://github.com/BeatrizHilario/sistema-ordens-servico" style="color: #c084fc; text-decoration: none;">🔧 Ordens de Serviço</a></h4>
-      <p style="color: #d8b4fe; font-size: 13px;">Sistema para emissão e controle de orçamentos, histórico de manutenção e clientes.</p>
-      <p>
+        <img src="https://img.shields.io/badge/Open_Finance-6D28D9?style=flat-square&logo=buffer&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/BeatrizHilario/gestor-gastos-excel">📊 Gestor de Gastos</a></b></td>
+      <td>Sistema full-stack para gestão e controle orçamentário empresarial com exportação e parsing dinâmico de planilhas Excel.</td>
+      <td>
         <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Data_JPA-6D28D9?style=flat-square&logo=spring&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" bgcolor="#130924" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 8px;">
-      <h4 style="margin: 0 0 8px 0;"><a href="https://github.com/BeatrizHilario/crud-venda-veiculos" style="color: #c084fc; text-decoration: none;">🚗 Catálogo & Venda de Veículos</a></h4>
-      <p style="color: #d8b4fe; font-size: 13px;">Gestão comercial de estoque e negociação veicular com interface responsiva e relatórios.</p>
-      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-7C3AED?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache_POI-6D28D9?style=flat-square&logo=apache&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/BeatrizHilario/sistema-ordens-servico">🔧 Ordens de Serviço</a></b></td>
+      <td>Software para gestão de ordens de serviço, emissão de orçamentos e histórico de clientes e manutenção técnica.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Data_JPA-7C3AED?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/BeatrizHilario/crud-venda-veiculos">🚗 Venda de Veículos</a></b></td>
+      <td>Solução de catálogo e controle de estoque de veículos com fluxo completo de CRUD e filtros avançados.</td>
+      <td>
         <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_MVC-7C3AED?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
+      </td>
+    </tr>
+  </tbody>
 </table>
-
-<br/>
 
 ---
 
 ### 🛠️ Stacks & Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,tailwind,js,html,css,git,github,idea,figma&theme=dark" />
-</div>
+<p align="left">
+  <b>Backend & Persistência</b><br/>
+  <img src="https://img.shields.io/badge/Java_17+-8B5CF6?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot_3-7C3AED?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6D28D9?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-5B21B6?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4C1D95?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate_%2F_JPA-3B0764?style=flat-square&logo=hibernate&logoColor=white"/>
+</p>
 
-<br/>
+<p align="left">
+  <b>Frontend Complementar & Design</b><br/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5_%2F_CSS3-6D28D9?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-5B21B6?style=flat-square&logo=figma&logoColor=white"/>
+</p>
 
----
-
-### 📈 Estatísticas & Atividade
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeatrizHilario&show_icons=true&bg_color=180c2e&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7&border_color=7c3aed" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizHilario&layout=compact&bg_color=180c2e&title_color=c084fc&text_color=e9d5ff&border_color=7c3aed" height="150" />
-</div>
-
-<br/>
+<p align="left">
+  <b>Ferramental & Versionamento</b><br/>
+  <img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-6D28D9?style=flat-square&logo=intellij-idea&logoColor=white"/>
+</p>
